@@ -2,7 +2,7 @@
 ## 背景介紹:
 建構辨識是否有戴口罩的人臉辨識系統模型
 
-![image](https://github.com/tddwso/Covid-19-Defect-Classification-by-Deep-Learning/blob/main/%E5%88%86%E9%A1%9E%E7%85%A7.PNG)
+![image](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/pic.PNG)
 
 ## 預計完成目標:
 使用的模型: Yolo3
