@@ -9,7 +9,7 @@
 ## 資料集:
 Train Data : 853
 
-來源位址: https://www.kaggle.com/andrewmvd/face-mask-detection
+來源網址: https://www.kaggle.com/andrewmvd/face-mask-detection
 
 ## 使用環境:
 Python 3.8
