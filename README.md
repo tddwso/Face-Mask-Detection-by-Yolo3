@@ -25,7 +25,7 @@ TensorFlow 2.3.1
 
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
-![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)
+![image](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/streamlit.PNG)
 
 
 
