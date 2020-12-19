@@ -19,7 +19,13 @@ TensorFlow 2.3.1
 
 ![image](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/IMG_2334_mask.JPG)
 
+## 使用Streamlit App展示成果
 
+![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/Stream%20Logo.png)
+
+Streamlit 是一個開源Python函式庫，可以快速製作Data App。
+
+![image](https://github.com/tddwso/Uniqlo-Label-Defect-Classification-by-Deep-Learning/blob/main/streamlit.png)
 
 
 
