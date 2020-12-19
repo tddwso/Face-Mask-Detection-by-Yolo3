@@ -17,7 +17,7 @@ Python 3.8
 TensorFlow 2.3.1 
 ## 訓練和測試結果
 
-![image](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/test.PNG)
+![image](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/IMG_2334_mask.JPG)
 
 
 
