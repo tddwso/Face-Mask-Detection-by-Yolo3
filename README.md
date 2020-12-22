@@ -26,7 +26,7 @@ TensorFlow 2.3.1
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
 實作影片
-[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/streamlit.PNG)](https://youtu.be/x4CTDnril5k)
+[![IMAGE ALT TEXT HERE](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/streamlit.PNG)](https://youtu.be/6oOH7tESTw0)
 
 
 
