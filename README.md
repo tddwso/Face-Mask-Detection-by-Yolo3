@@ -5,7 +5,12 @@
 ![image](https://github.com/tddwso/Face-Mask-Detection-by-Yolo3/blob/main/pic.PNG)
 
 ## 預計完成目標:
-使用的模型: Yolo3
+建立YOLO訓練模型，辨識信心度達到80%以上
+
+## 使用的模型: 
+YOLOv3 (即時物件偵測)
+
+YOLOv3是目前對於物件偵測被最廣泛應用的一項技術，先在影像中框出bounding box選出懷疑候選的區域,再針對bounding box裡的資訊截取特徵值解析並分類。
 ## 資料集:
 Train Data : 853
 
