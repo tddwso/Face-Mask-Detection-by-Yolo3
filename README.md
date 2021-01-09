@@ -30,7 +30,7 @@ TensorFlow 2.3.1
 
 Streamlit 是一個開源Python函式庫，可以快速製作Data App。
 
-實作影片(以下為Youtube影片連結)
+實作影片(以下圖片為Youtube影片連結)
 
 APP操作方法:
 
